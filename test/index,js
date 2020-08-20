@@ -1,0 +1,5 @@
+const tosIfy = require('../index');
+const text = "Rangga ganteng banget";
+const tos = tosIfy.add(text);
+
+console.log(tos); // Ranggatos gantengtos bangettos
